@@ -1,0 +1,30 @@
+_repo: Letters-from-Switzerland_45097
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45097-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Prime, Samuel Irenæus
+    aliases:
+    - Irenaeus
+    - Prime, S. Irenaeus (Samuel Irenaeus)
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '43097'
+    url: http://www.gutenberg.org/2009/agents/43097
+description: ''
+gutenberg_issued: '2014-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45097'
+  lccn: 04008905
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DQ'
+- !lcsh 'Switzerland -- Description and travel'
+title: Letters from Switzerland
+url: http://www.gutenberg.org/ebooks/45097
